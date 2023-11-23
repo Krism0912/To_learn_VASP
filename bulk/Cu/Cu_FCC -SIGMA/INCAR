@@ -1,0 +1,9 @@
+System = fcc Cu
+
+ISTART = 0    ! start from scratch
+ICHARG = 0    ! superposition of atomic charge densities
+
+ENCUT  = 292  ! energy cutoff
+ISMEAR = 0    ! Gaussian smearing
+SIGMA = 0.02   ! broadening
+GGA = 91
